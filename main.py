@@ -1,2 +1,5 @@
+
+import cart
+
 def main():
-	return 0
+	return cart.cart()
